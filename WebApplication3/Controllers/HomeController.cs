@@ -13,6 +13,11 @@ namespace WebApplication3.Controllers
         public IActionResult Index()
         {
             return View();
+        }      
+        
+        public IActionResult Owen()
+        {
+            return View();
         }
 
         public IActionResult About()
